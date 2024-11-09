@@ -1,3 +1,5 @@
+> DocId: MJ99gVsoRlqlsTKICGRH
+
 # 深入理解现代身份认证与授权：ID Token、Access Token、OAuth 和 OIDC
 
 在当今复杂的网络环境中，安全的身份认证和授权机制对于保护用户数据和系统资源至关重要。本文将深入探讨四个核心概念：ID Token、Access Token、OAuth 2.0 和 OpenID Connect (OIDC)，解析它们的特点、优势以及在现代应用中的角色。
